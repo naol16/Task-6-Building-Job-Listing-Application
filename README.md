@@ -12,7 +12,8 @@ Click on a job listing to see more detailed information about the job.
 Built with Next.js and TypeScript for better scalability and development efficiency.
 screen shots
 job card
-![Screenshot (53)](https://github.com/user-attachments/assets/5e8815cb-27b8-45d3-b126-69a7f2ca3db0)
+![Screenshot (55)](https://github.com/user-attachments/assets/ac9cc31a-3401-4498-8fb9-84ff8d2014ae)
+
 
 dashoboard for the job
 ![Screenshot (54)](https://github.com/user-attachments/assets/6bc48eb7-77c8-44a6-a995-c5c827b38e4e)
