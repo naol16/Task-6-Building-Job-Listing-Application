@@ -9,7 +9,6 @@ Built with Next.js and TypeScript for improved scalability and efficient develop
 Features
 Display a list of available job postings.
 Click on a job listing to see more detailed information about the job.
-Built with Next.js and TypeScript for better scalability and development efficiency.
 screen shots
 job card
 ![Screenshot (55)](https://github.com/user-attachments/assets/ac9cc31a-3401-4498-8fb9-84ff8d2014ae)
